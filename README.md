@@ -213,10 +213,6 @@ trainer-analytics-pipeline/
 - Trainer Performance Analytics Dashboard: `dashboards/trainer_performance_dashboard.pdf`
 - Session Feedback Analytics Dashboard: `dashboards/session_feedback_dashboard.pdf`
 
-## Demo Video
-
-*(Add your YouTube link here)*
-
 ## Skills Shown in This Project
 
 SQL data transformation, joins and aggregations, data views (staging, dimension, and reporting layers), data cleaning, designing a pipeline that scales, BI dashboard design, form data validation, cloud access (IAM) troubleshooting.
@@ -224,4 +220,4 @@ SQL data transformation, joins and aggregations, data views (staging, dimension,
 ## Author
 
 **Mohammad Saad Khan**, Data Analytics
-LinkedIn: *(add your link)*
+[LinkedIn](https://www.linkedin.com/in/saad-khan-data-analyst)
