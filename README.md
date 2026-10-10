@@ -207,7 +207,7 @@ trainer-analytics-pipeline/
 
 ## Dashboard Previews
 
-*(Add your screenshots here)*
+!https://github.com/Saad-2605/trainer-analytics-pipeline/blob/main/dashboards/Session%20Feedback%20Analytics%20Dashboard.png[description](path)
 
 - Trainer Performance Analytics Dashboard: `dashboards/trainer_performance_dashboard.pdf`
 - Session Feedback Analytics Dashboard: `dashboards/session_feedback_dashboard.pdf`
