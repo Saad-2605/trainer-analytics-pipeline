@@ -206,6 +206,7 @@ trainer-analytics-pipeline/
 5. Connect the reporting views to Looker Studio as data sources.
 
 ## Dashboard Previews
+![Trainer Performance Analytics Dashbaord](https://github.com/Saad-2605/trainer-analytics-pipeline/blob/main/dashboards/Trainer%20Performance%20Analytics%20Dashboard.png?raw=true)
 
 ![Session Feedback Analytics Dashboard](https://github.com/Saad-2605/trainer-analytics-pipeline/blob/main/dashboards/Session%20Feedback%20Analytics%20Dashboard.png?raw=true)
 
