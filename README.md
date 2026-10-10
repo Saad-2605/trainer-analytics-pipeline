@@ -217,6 +217,12 @@ trainer-analytics-pipeline/
 
 SQL data transformation, joins and aggregations, data views (staging, dimension, and reporting layers), data cleaning, designing a pipeline that scales, BI dashboard design, form data validation, cloud access (IAM) troubleshooting.
 
+## Demo Video
+
+[![Watch the demo video](dashboards/youtube_thumbnail.png)](https://youtu.be/dUhohet7n-s)
+
+▶️ Click the image above to watch the full 3-minute walkthrough on YouTube.
+
 ## Author
 
 **Mohammad Saad Khan**, Data Analytics
